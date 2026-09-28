@@ -1,0 +1,11 @@
+sample,group,donor_type
+HD1,HD,healthy
+HD2,HD,healthy
+P1,high_IRC,patient
+P2,high_IRC,patient
+P3,high_IRC,patient
+P4,high_IRC,patient
+P5,low_IRC,patient
+P6,low_IRC,patient
+P7,low_IRC,patient
+P8,low_IRC,patient

@@ -1,0 +1,16 @@
+panel,variable,n,cutoff,cut_source,n_high,n_low,logrank_p,HR_per_SD,cox_p,cox_p_BH
+ED 1e: overall IS,is,31,0.411,optimal (surv_cutpoint),21,10,0.109,1.25 (0.80–1.95),0.327,NA
+ED 2b: B cells,is,31,0.34,paper,19,12,0.804,0.87 (0.55–1.37),0.536,0.926
+ED 2b: CD57+ Effector CD4 T cells,is,31,0.429,optimal (surv_cutpoint),16,15,0.238,0.92 (0.60–1.39),0.679,0.926
+ED 2b: Effector CD8 T cells,is,31,0.373,optimal (surv_cutpoint),22,9,0.192,0.89 (0.56–1.40),0.606,0.926
+ED 2b: Foxp3 CD4 T cells,is,31,0.384,optimal (surv_cutpoint),15,16,0.519,1.16 (0.74–1.84),0.515,0.926
+ED 2b: NK cells,is,31,0.331,optimal (surv_cutpoint),20,11,0.0771,1.06 (0.70–1.59),0.788,0.926
+ED 2b: CD4 T cells,is,31,0.4,paper,9,22,0.104,1.15 (0.72–1.84),0.569,0.926
+ED 2b: Neutrophil,is,31,0.283,optimal (surv_cutpoint),10,21,0.165,1.02 (0.64–1.62),0.926,0.926
+ED 2b: Myeloid cells,is,31,0.53,paper,19,12,0.455,1.05 (0.66–1.67),0.842,0.926
+ED 2b: CD8 T cells,is,31,0.39,paper,12,19,0.247,1.11 (0.69–1.78),0.655,0.926
+ED 2b: pDC,is,31,0.662,optimal (surv_cutpoint),18,13,0.0191,0.78 (0.46–1.32),0.346,0.926
+ED 2b: DC,is,31,0.595,optimal (surv_cutpoint),10,21,0.196,0.96 (0.60–1.52),0.857,0.926
+ED 4e: CD8 Teff IRC,cd8_irc,31,0.607,paper,20,11,0.0136,1.67 (1.00–2.79),0.0486,NA
+ED 6a: myeloid PD-L1 induction,pdl1,93,1.394,optimal (surv_cutpoint),45,48,0.342,1.06 (0.82–1.38),0.66,NA
+Fig 4f check: myeloid IDO induction,ido,93,0.277,optimal (surv_cutpoint),52,41,0.0368,0.85 (0.63–1.14),0.285,NA

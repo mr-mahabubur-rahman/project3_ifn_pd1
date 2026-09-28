@@ -1,0 +1,11 @@
+gene,paper,cell_log2FC,cell_p,high_mean,low_mean,patient_p,ours_cell,agree_cell
+FLI1,Higher in high IRC,0.638,1.04e-50,1.22,0.871,0.2,Higher in high IRC,TRUE
+RUNX1,Higher in high IRC,1.22,9.789999999999995e-211,2.04,1.24,0.114,Higher in high IRC,TRUE
+NFATC2,Higher in high IRC,0.543,8.06e-30,0.764,0.519,0.0286,Higher in high IRC,TRUE
+NFATC3,Higher in high IRC,1.09,6.599999999999998e-118,1.18,0.604,0.114,Higher in high IRC,TRUE
+NFAT5,Higher in high IRC,0.652,5.18e-39,0.928,0.622,0.0286,Higher in high IRC,TRUE
+JUN,Higher in low IRC,-2.23,4.129999999999998e-119,0.214,0.596,0.0571,Higher in low IRC,TRUE
+FOS,Higher in low IRC,-1.62,4.7499999999999996e-48,0.126,0.335,0.0571,Higher in low IRC,TRUE
+TOX,Higher in high IRC,0.895,2.44e-14,0.39,0.238,0.2,Higher in high IRC,TRUE
+DNMT3A,Higher in high IRC,0.981,1.29e-24,0.284,0.141,0.2,Higher in high IRC,TRUE
+EZH2,Higher in high IRC,-0.0902,0.113,0.342,0.313,1,Higher in low IRC,FALSE

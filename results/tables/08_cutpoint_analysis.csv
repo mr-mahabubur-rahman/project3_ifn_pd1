@@ -1,0 +1,6 @@
+approach,HR_95CI,p
+"Paper: optimal cut, naive log-rank",3.60 (1.49–8.69),0.00241
+"Optimal cut, corrected for search (maxstat)",—,0.032
+"Median split (pre-specified), log-rank",1.66 (0.70–3.94),0.247
+"Continuous Cox, HR per 0.1 IRC",1.40 (1.07–1.81),0.0124
+"Continuous Cox, HR per 1 SD",1.79 (1.13–2.83),0.0124

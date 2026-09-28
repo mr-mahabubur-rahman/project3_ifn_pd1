@@ -1,0 +1,9 @@
+sample,group,n_cells,pct_expressing,mean_expr
+P1,high_IRC,4503,1.7,0.016
+P2,high_IRC,4066,0.6,0.007
+P3,high_IRC,6245,0.6,0.006
+P4,high_IRC,1823,0.5,0.005
+P5,low_IRC,236,5.1,0.092
+P6,low_IRC,3672,0.2,0.002
+P7,low_IRC,2366,1.4,0.014
+P8,low_IRC,2505,2.1,0.021

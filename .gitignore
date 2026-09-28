@@ -1,0 +1,12 @@
+# Raw and large data (public: GEO GSE199994; Nature source data MOESM3-10)
+data/
+source_data/
+results/objects/
+*.rds
+# Copyrighted / course material
+paper.pdf
+project3_guide.pdf
+# Jupyter and R clutter
+.ipynb_checkpoints/
+.Rhistory
+Rplots.pdf

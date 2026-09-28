@@ -1,0 +1,4 @@
+dataset,n,events,logrank_p,HR_high_vs_low,CI_low,CI_high
+Discovery,31,21,0.00241,3.6,1.49,8.69
+Validation (Melanoma),28,13,0.00289,5.81,1.58,21.41
+Validation (NSCLC),34,20,0.019,3.07,1.15,8.17

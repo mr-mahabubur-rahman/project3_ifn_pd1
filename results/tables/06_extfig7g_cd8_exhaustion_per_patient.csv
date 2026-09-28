@@ -1,0 +1,9 @@
+sample,group,n_cells,score
+P1,high_IRC,1298,0.0425
+P2,high_IRC,1271,0.0076
+P3,high_IRC,572,0.0662
+P4,high_IRC,161,0.0205
+P5,low_IRC,423,-0.009
+P6,low_IRC,1147,-0.0281
+P7,low_IRC,1108,0.024
+P8,low_IRC,640,-0.0033

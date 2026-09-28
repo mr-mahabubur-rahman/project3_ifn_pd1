@@ -1,0 +1,5 @@
+analysis,n,events,logrank_p,HR,CI
+Fig 4f: IDO low vs high (all),93,54,0.00533,2.14,1.24–3.69
+Fig 4h: high vs low risk (all),93,54,4.43e-5,3.11,1.76–5.50
+Fig 4h: training only,59,34,0.0066,2.6,1.27–5.31
+Fig 4h: test only (NSCLC),34,20,3.71e-4,6.58,2.04–21.23
